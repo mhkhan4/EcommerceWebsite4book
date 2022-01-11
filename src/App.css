@@ -1,0 +1,47 @@
+.cont {
+  background-image: url(./images/book-image.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.searchbar {
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 200px;
+  margin-top: 40px;
+  width: 450px;
+}
+.adv3 {
+  text-align: center;
+  margin-bottom: 200px;
+  margin-top: 40px;
+  color: azure;
+  font-family:cursive;
+  font-weight: bold;
+}
+
+
+
+.adv1 {
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 40px;
+  color: azure;
+  font-size: 45px;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.adv2 {
+  margin-top: 40px;
+  text-align: center;
+  color:azure;
+  font-size: 30px;
+  font-family:monospace;
+  font-weight: bold;
+}
+
+.copyright {
+  color: aliceblue;
+}
+
